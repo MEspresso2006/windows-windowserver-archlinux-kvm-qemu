@@ -144,6 +144,9 @@ sudo virsh net-list --all
 ```
 
 The `default` network was now active and set to autostart.
+
+<img width="849" height="171" alt="image" src="https://github.com/user-attachments/assets/6a5b483d-ffd4-4d63-a758-a4c2778c96ee" />
+
 I also checked the virtual bridge created by libvirt:
 ```bash
 ip addr show virbr0
