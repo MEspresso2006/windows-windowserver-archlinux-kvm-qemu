@@ -1,4 +1,4 @@
-## Creating the Windows 11 VM
+# Creating the Windows 11 VM
 
 After Windows Server was working, I created a Windows 11 virtual machine in `virt-manager`.
 
