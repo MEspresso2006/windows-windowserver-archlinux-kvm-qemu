@@ -1,4 +1,4 @@
-## SSH Remote Access
+# SSH Remote Access
 I use my MacBook to connect to the Arch Linux host through SSH. At the first time, I mostly used the command below:
 ```bash
 ssh huynh@192.168.4.93
