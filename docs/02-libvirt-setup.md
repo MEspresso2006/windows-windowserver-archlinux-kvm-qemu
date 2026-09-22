@@ -1,4 +1,4 @@
-## Enabling and Validating libvirt
+# Enabling and Validating libvirt
 After installing the virtualization packages, I enabled the libvirt socket so that the virtualization service can start when it is needed.
 
 ```bash
