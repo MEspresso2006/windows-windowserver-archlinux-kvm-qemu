@@ -1,4 +1,4 @@
-## Moving the VM Storage to `/home`
+# Moving the VM Storage to `/home`
 
 While installing Windows, I noticed that the root partition on my Arch Linux host became almost full.
 
