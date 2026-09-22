@@ -1,4 +1,4 @@
-## Configuring the libvirt Network
+# Configuring the libvirt Network
 
 After libvirt was working, I checked the default virtual network:
 
