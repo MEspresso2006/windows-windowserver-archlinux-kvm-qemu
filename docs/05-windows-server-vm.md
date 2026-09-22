@@ -1,4 +1,4 @@
-## Creating the Windows Server VM
+# Creating the Windows Server VM
 
 After preparing the ISO files, I created my first virtual machine in `virt-manager` for Windows Server.
 
