@@ -1,4 +1,4 @@
-## Preparing the ISO Files
+# Preparing the ISO Files
 
 Before creating the virtual machines, I already downloaded the installation ISO files for Windows Server and Windows 11.
 
