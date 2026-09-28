@@ -54,3 +54,7 @@ KVM/QEMU + libvirt
 ### Storage Management
 
 - [Moving the VM Storage to `/home`](docs/07-vm-storage-migration.md)
+
+- [Moving VM Disks to New Storage](docs/08-moving-vm-disks-to-new-storage.md)
+
+- [VM Snapshots](docs/09-snapshots.md)
